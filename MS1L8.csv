@@ -1,0 +1,26 @@
+Category,Value,Question,Answer
+Kenneth,10,Do you know me?,"Yes, I do. / No, I don't."
+Kenneth,20,How do I come to school?,(You come to school) by bike.
+Kenneth,30,How old am I?,(You are) 23 (years old).
+Kenneth,40,What is my favorite subject?,It’s [subject].
+Kenneth,50,What instruments can I play?,(You can play) piano and marimba.
+School,10,What subject do you like?,I like [subject].
+School,20,How do you come I school?,I come by bike / I walk.
+School,30,How long are your classes?,(They are) 50 minutes long.
+School,40,Who is Mr. Kishihata?,He's our/my/a Japanese teacher.
+School,50,How old is Makishima Junior High School?,It's 33 years old.
+Japan and America,10,Is Harry Potter from America?,"No, it isn't. / No, It's not. / No, he isn't. / No, he's not."
+Japan and America,20,"Where do you want to live, Japan or America?",I want to live in [country].
+Japan and America,30,What is famous in America?,[Thing] is famous in America.
+Japan and America,40,How many people live in Japan?,(About) 130 million people (live in Japan).
+Japan and America,50,"Which do you like, Japan or America? And why?",I like [country] because [reason].
+Daily Life,10,Do you read every day?,"Yes, I do. / No, I don't."
+Daily Life,20,What do you do after school?,I play [sport]/do my homework/etc. (after school).
+Daily Life,30,How many people are there in your family?,(There are) [#] people (in my family).
+Daily Life,40,What pet do you want?,I want a(n) [animal].
+Daily Life,50,What do you do in your free time?,I [activity] in my free time.
+Food,10,Can you cook curry?,"Yes, I can. / No, I can't."
+Food,20,Did you eat breakfast this morning?,"Yes, I did. / No, I didn't."
+Food,30,"Which dessert do you like, cake or ice cream?",I like [food].
+Food,40,What did you have for dinner yesterday?,I had [food] (for dinner yesterday).
+Food,50,What is your favorite American food?,It’s [food].
